@@ -90,8 +90,8 @@ function zephyr.load_syntax()
     CursorIM = {fg=zephyr.none,bg=zephyr.none,style='reverse'};
     CursorColumn = {fg=zephyr.none,bg=zephyr.bg_highlight};
     CursorLine = {fg=zephyr.none,bg=zephyr.bg_highlight};
-    LineNr = {fg=zephyr.base4};
-    CursorLineNr = {fg=zephyr.blue};
+    LineNr = {fg=zephyr.base5};
+    CursorLineNr = {fg=zephyr.green};
     DiffAdd = {fg=zephyr.black,bg=zephyr.green};
     DiffChange = {fg=zephyr.black,bg=zephyr.yellow};
     DiffDelete = {fg=zephyr.black,bg=zephyr.red};
