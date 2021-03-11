@@ -33,7 +33,8 @@ local zephyr = {
   violet = '#a9a1e1';
   teal = '#1abc9c';
   grey = '#928374';
-  brown = '#666660';
+  -- brown = '#666660';
+  brown = '#51afef';
   black = '#000000';
 
   bracket = '#80A0C2';
